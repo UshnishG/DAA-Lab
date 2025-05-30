@@ -1,0 +1,6 @@
+Patient Name: John Doe
+Date of Birth: 1980-01-15
+Report Date: 2023-10-26
+Test ID: XYZ123
+Result: Normal
+Notes: Patient is feeling well.
